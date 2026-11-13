@@ -1,0 +1,4 @@
+Estas librerias son las que se instalaron para hacer la tarea:
+npm install
+npm install -D vitest @vitest/coverage-v8 dotenv
+npm i --save-dev @types/node
